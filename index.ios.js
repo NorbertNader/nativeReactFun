@@ -17,10 +17,10 @@ export default class ReactNativeTest extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Hej Lila!
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit index.ios.js
+          No i masz swojego iOS! Tez go lubie
         </Text>
         <Text style={styles.instructions}>
           Press Cmd+R to reload,{'\n'}
