@@ -26,6 +26,6 @@ lets see what we have here...
 
 ok lets try this one...
 
-`emulator -avd Nexus_6_API_25`
+`cd $ANDROID_HOME/tools && emulator -avd Nexus_6_API_25`
 
 delicious.
