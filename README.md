@@ -23,6 +23,6 @@ lets see what we have here...
 
 ok lets try this one...
 
-`emulator Nexus_6_API_25`
+`emulator -avd Nexus_6_API_25`
 
 delicious.
