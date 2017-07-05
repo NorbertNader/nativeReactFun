@@ -6,7 +6,9 @@ in the directry run
 `react-native start`
 and then the emulator be it iOS `react-native run-ios` or android `react-native run-android`
 
-Very annoying...
+***
+
+Very annoying when doing apk release...
 
 before running
 
@@ -14,6 +16,7 @@ before running
 
 remember to `unlink node_modules/react-native/third-party/glog-0.3.4/test-driver`
 
+***
 
 don't forget to run the emulator...
 
