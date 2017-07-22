@@ -1,4 +1,4 @@
-# nativeReactFun
+# infinity illusions numerology reports buld with React Native!
 ![screen of infinity illutions login page](https://github.com/NorbertNader/nativeReactFun/blob/master/media/screen.png)
 
 an app for numerology report portal http://infinityillusions.us/
